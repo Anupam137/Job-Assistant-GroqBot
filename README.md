@@ -14,10 +14,10 @@ Here’s how Job Assistant Groqbot works:
 
 1. **Input the Company Name and Job Position**
 
-   ![Input Example](screenshots/Screenshot(15).png)
+   ![Input Example](screenshots/1.png)
 
 2. **Generated Job Application** and **Skill Suggestions and Resources**
 
-   ![Generated Application](screenshots/Screenshot(16).png)
+   ![Generated Application](screenshots/2.png)
 
 
